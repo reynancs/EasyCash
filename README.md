@@ -26,7 +26,8 @@ Sprints:
 - Sprint 03: Hospedar Modelo em API. Criar requisição para API e apresentar resultado na ferramenta PowerBI.
 
 ### Sprint 01
-![Sprint1](https://user-images.githubusercontent.com/97552106/213252207-67ea2249-b8ff-4ca6-ab6a-454f77f6cb0c.png)
+![Sprint1](https://user-images.githubusercontent.com/97552106/213252913-2377a57c-b470-4da3-b893-d1e2f0b37615.png)
+
 
 
 ### Sprint 02
