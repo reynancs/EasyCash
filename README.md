@@ -1,5 +1,12 @@
-# EasyCash
-Modelagem de um classificador capaz de encontrar potenciais clientes inadimplentes
+# EasyCash - Projeto de Previsão de Inadimplência (em andamento)
+
+<div align="center">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><img>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow"> </img>
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></img>
+<img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"> </img>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"> </img>
+</div>
 
 ## Entendendo o Problema
 A Empresa Easy Cash é um banco digital que atua desde 2015 no Brasil oferecendo produtos financeiros como: investimentos, cartão de crédito e alguns tipos de seguros e emprestímos. Devido o momento de pós pandemia, a taxa de inadimplência do Brasil em 2022, aumentou para aproximadamente 70 milhões de pessoas inadimplentes, um crescimento de 9,89% comparado ao ano de 2020. Todavia, este indíce de inadimplência acabou afetando também a Easy Cash, que fechou o ano de 2022 com o pior desempenho (8,9%) um aumento de 78% comparado com o objetivo da empresa de 5%, o qual, desde 2020 não é atingido.
@@ -13,7 +20,7 @@ Neste projeto, a Easy Cash solicitou uma solução para que seja possível dimin
 ## Planejamento
 Após a primeira reunião com o time, já como como cientista de dados, foi sugerido um estudo das informações financeiras e de solicitação de empréstimo para encontrar padrões que possam indicar uma possível inadimplência. Desse modo, foi solicitado um conjunto de dados que contenha as informações de clientes, da solicitação de empréstimo, do histórico de crédito, bem como se a pessoa mutuaria é inadimplente ou não. Com esses dados em mãos, foi organizado as atividades em Sprints utilizando Metodologia Ágil através da ferramenta Trello para que o time de diretoria possa acompanhar o andamento das atividades e que o prazo seja cumprido.
 
-####Sprints:
+Sprints:
 - Sprint 01: Extração da base de dados e Entendimento dos Dados
 - Sprint 02: Construção e validação do Modelo de Aprendizado de Máquina. 
 - Sprint 03: Hospedar Modelo em API. Criar requisição para API e apresentar resultado na ferramenta PowerBI.
