@@ -13,7 +13,7 @@ Neste projeto, a Easy Cash solicitou uma solução para que seja possível dimin
 ## Planejamento
 Após a primeira reunião com o time, já como como cientista de dados, foi sugerido um estudo das informações financeiras e de solicitação de empréstimo para encontrar padrões que possam indicar uma possível inadimplência. Desse modo, foi solicitado um conjunto de dados que contenha as informações de clientes, da solicitação de empréstimo, do histórico de crédito, bem como se a pessoa mutuaria é inadimplente ou não. Com esses dados em mãos, foi organizado as atividades em Sprints utilizando Metodologia Ágil através da ferramenta Trello para que o time de diretoria possa acompanhar o andamento das atividades e que o prazo seja cumprido.
 
-Sprints:
-Sprint 01 - Extração da base de dados e Entendimento dos Dados
-Sprint 02 - Construção e validação do Modelo de Aprendizado de Máquina.
-Sprint 03 - Hospedar Modelo em API. Criar requisição para API e apresentar resultado na ferramenta PowerBI.
+####Sprints:
+- Sprint 01: Extração da base de dados e Entendimento dos Dados
+- Sprint 02: Construção e validação do Modelo de Aprendizado de Máquina. 
+- Sprint 03: Hospedar Modelo em API. Criar requisição para API e apresentar resultado na ferramenta PowerBI.
