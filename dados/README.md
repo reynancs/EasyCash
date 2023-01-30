@@ -3,7 +3,7 @@ Por meio dos arquivos Dumps (.sql) disponibilizado, os dados das tabelas foram c
 
 Após realizar a união das tabelas, estes dados foram disponibilizados em 2 arquivos:
 - `dados_juntos.csv` - União dos dados sem remoção de dados (Dados Brutos);
-- `dados_juntos_tratados.csv` - União dos dados com remoção de dados nulos ou incompletos (Dados Tratados); 
+- `dados_tratados.csv` - União dos dados com remoção de dados nulos ou incompletos (Dados Tratados); 
 
 
 ## Dicionário de dados por tabela
