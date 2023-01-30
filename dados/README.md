@@ -29,8 +29,8 @@ Tabela contendo as informações do empréstimos solicitados
 | `loan_intent` | `motivo_emprestimo` | varchar(32) | Motivo do empréstimo: *Pessoal* (`Personal`), *Educativo* (`Education`), *Médico* (`Medical`), *Empreendimento* (`Venture`), *Melhoria do lar* (`Homeimprovement`), *Pagamento de débitos* (`Debtconsolidation`) |
 | `loan_grade` | `pontuacao_emprestimo` | varchar(1) | Pontuação de empréstimos, por nível variando de `A` a `G` |
 | `loan_amnt` | `valor_emprestimo` | int | Valor total do empréstimo solicitado |
-| `loan_int_rate` | `taxa_emprestimo` | double |  Taxa de juros |
-| `loan_status` | `status_emprestimo` | int | Possibilidade de inadimplência |
+| `loan_int_rate` | `taxa_juros` | double |  Taxa de juros |
+| `loan_status` | `inadimplencia` | int | Possibilidade de inadimplência |
 | `loan_percent_income` | `renda_percentual_emprestimo` | double |  Renda percentual entre o *valor total do empréstimo* e o *salário anual* |
 
 
@@ -40,8 +40,8 @@ Histório de emprétimos de cada cliente
 | Feature (en) | Caracteristica (pt) | Tipo | Descrição |
 | --- | --- | --- | --- |
 |`cb_id`| `id_hist_banco` | varchar(16) | ID do histórico de cada solicitante|
-| `cb_person_default_on_file` | `status_inadimplencia` | varchar(1) |  Indica se a pessoa já foi inadimplente: sim (`Y`,`YES`) e não (`N`,`NO`) |
-| `cb_person_cred_hist_length` | `tempo_credito` |  int | Tempo - em anos - desde a primeira solicitação de crédito ou aquisição de um cartão de crédito |
+| `cb_person_default_on_file` | `devendo` | varchar(1) |  Indica se a pessoa já foi inadimplente: sim (`Y`,`YES`) e não (`N`,`NO`) |
+| `cb_person_cred_hist_length` | `tempo_de_credito` |  int | Tempo - em anos - desde a primeira solicitação de crédito ou aquisição de um cartão de crédito |
 
 
 ### ids
