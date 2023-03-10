@@ -19,79 +19,53 @@
 
 ![IMAGEM-AQUI]
 
-**Segmento:** 🏦 Finance
+**Segmento:** 🏦 Finance 
 
-**Área**: Data Science/ Machine Learning 
 
-**Dataset:** [Kaggle](https://www.kaggle.com/datasets)
-
-**Descrição:** aqui
+> **Descrição:** aqui
 
 ## 📚 Sumário
-1. 📉 [Business Problem](https://github.com/reynancs/EasyCash/blob/main/README.md#business-problem)
-2. 🎯 [Objetivo](https://github.com/reynancs/EasyCash/blob/main/README.md#objetivo)
-3. 📜 [Planejamento da Solução](https://github.com/reynancs/EasyCash/blob/main/README.md#planejamento-da-solução)
-5. ⚠️ [Top3 Data Insights](https://github.com/reynancs/EasyCash/blob/main/README.md#Top3-Data-Insights)
-6. 🔎 [Modelos de Machine Learning Aplicado](https://github.com/reynancs/EasyCash/blob/main/README.md#modelos-de-machine-learning-aplicado)
-7. 🚀 [Performance dos Modelos](https://github.com/reynancs/EasyCash/blob/main/README.md#performance-dos-modelos)
-8. 💰 [Resultados em Valores de Negócio](https://github.com/reynancs/EasyCash/blob/main/README.md#resultados-em-valores-de-negócio)
-9. ⏩ [Next Steps](https://github.com/reynancs/EasyCash/blob/main/README.md#next-steps)
-10. 💻 [Como Rodar a Aplicação](https://github.com/reynancs/EasyCash/blob/main/README.md#como-rodar-a-aplicação)
-11. 🙋 [Autor](https://github.com/reynancs/EasyCash/blob/main/README.md#autor)
-12. 🔑 [Licença](https://github.com/reynancs/EasyCash/blob/main/README.md#licença)
+1. [Business Problem](https://github.com/reynancs/EasyCash/blob/main/README.md#business-problem)
+2. [Objetivo](https://github.com/reynancs/EasyCash/blob/main/README.md#objetivo)
+3. [Planejamento da Solução](https://github.com/reynancs/EasyCash/blob/main/README.md#planejamento-da-solução)
+4. [Top3 Data Insights](https://github.com/reynancs/EasyCash/blob/main/README.md#Top3-Data-Insights)
+5. [Modelos de Machine Learning Aplicado](https://github.com/reynancs/EasyCash/blob/main/README.md#modelos-de-machine-learning-aplicado)
+6. [Performance dos Modelos](https://github.com/reynancs/EasyCash/blob/main/README.md#performance-dos-modelos)
+7. [Resultados em Valores de Negócio](https://github.com/reynancs/EasyCash/blob/main/README.md#resultados-em-valores-de-negócio)
+8. [Next Steps](https://github.com/reynancs/EasyCash/blob/main/README.md#next-steps)
+9. [Como Rodar a Aplicação](https://github.com/reynancs/EasyCash/blob/main/README.md#como-rodar-a-aplicação)
+10. [Autor](https://github.com/reynancs/EasyCash/blob/main/README.md#autor)
+11. [Licença](https://github.com/reynancs/EasyCash/blob/main/README.md#licença)
   
   
 
 
-## 1. 📉 Business Problem
+## 1. Business Problem
 
-## 2. 🎯 Objetivo
+## 2. Objetivo
 
-## 3. 📜 Planejamento da Solução
+## 3. Planejamento da Solução
 
-## 4. Aplicação
-### 4.1. Carregando Dados
+## 4. Top3 Data Insights
 
-### 4.2. Tratamento dos Dados
+## 5. Modelos de Machine Learning Aplicado
 
-### 4.3. Análise Exploratória (Validação de Hipóteses)
+## 6. Performance dos Modelos
 
-### 4.4. Preparando os Dados
+## 7. Resultados em Valores de Negócio
 
-### 4.5. Gerando o Modelo
+## 8. Next Steps
 
-### 4.6. Avaliando a Performance do Modelo
+## 9. Como Rodar a Aplicação
+**|Dataset|** [Kaggle](https://www.kaggle.com/datasets)
 
-### 4.7. Resultados Obtidos
-
-## 5. Como Rodar a Aplicação
-
-## 6. Autor
-
-## 7. Licença
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Autor
+## 10. Autor
 [![Author](https://img.shields.io/badge/Author-Renan%20Cardoso-red.svg)](https://www.linkedin.com/in/renan-cardoso-8323b151)
-
-## Licença
+## 11. Licença
 [![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)
 
 ****
 ![watchs](https://img.shields.io/github/watchers/reynancs/EasyCash.svg)
 ![forks](https://img.shields.io/github/forks/reynancs/EasyCash.svg)
 ![stars](https://img.shields.io/github/stars/reynancs/EasyCash.svg)
-
 
