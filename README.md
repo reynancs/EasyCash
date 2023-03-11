@@ -17,7 +17,7 @@
 
 
 
-![IMAGEM-AQUI]
+![IMAGEM-AQUI].
 
 **Segmento:** 🏦 Finance 
 
