@@ -25,26 +25,26 @@
 > **Descrição:** aqui
 
 ## 📚 Sumário
-1. [Business Problem](https://github.com/reynancs/EasyCash/blob/main/README.md#business-problem)
-2. [Objetivo](https://github.com/reynancs/EasyCash/blob/main/README.md#objetivo)
-3. [Planejamento da Solução](https://github.com/reynancs/EasyCash/blob/main/README.md#planejamento-da-solução)
+1. [Business Case](https://github.com/reynancs/EasyCash/blob/main/README.md#business-problem)
+2. [Planejamento da Solução](https://github.com/reynancs/EasyCash/blob/main/README.md#planejamento-da-solução)
+3. [Objetivo](https://github.com/reynancs/EasyCash/blob/main/README.md#objetivo)
 4. [Top3 Data Insights](https://github.com/reynancs/EasyCash/blob/main/README.md#Top3-Data-Insights)
 5. [Modelos de Machine Learning Aplicado](https://github.com/reynancs/EasyCash/blob/main/README.md#modelos-de-machine-learning-aplicado)
 6. [Performance dos Modelos](https://github.com/reynancs/EasyCash/blob/main/README.md#performance-dos-modelos)
 7. [Resultados em Valores de Negócio](https://github.com/reynancs/EasyCash/blob/main/README.md#resultados-em-valores-de-negócio)
 8. [Next Steps](https://github.com/reynancs/EasyCash/blob/main/README.md#next-steps)
-9. [Como Rodar a Aplicação](https://github.com/reynancs/EasyCash/blob/main/README.md#como-rodar-a-aplicação)
+9. [Pré-Requisitos/ Como Rodar a Aplicação](https://github.com/reynancs/EasyCash/blob/main/README.md#como-rodar-a-aplicação)
 10. [Autor](https://github.com/reynancs/EasyCash/blob/main/README.md#autor)
 11. [Licença](https://github.com/reynancs/EasyCash/blob/main/README.md#licença)
   
   
 
 
-## 1. Business Problem
+## 1. Business Case
 
-## 2. Objetivo
+## 2. Planejamento da Solução
 
-## 3. Planejamento da Solução
+## 3. Objetivo
 
 ## 4. Top3 Data Insights
 
@@ -56,7 +56,7 @@
 
 ## 8. Next Steps
 
-## 9. Como Rodar a Aplicação
+## 9. Pré-Requisitos/ Como Rodar a Aplicação
 **|Dataset|** [Kaggle](https://www.kaggle.com/datasets)
 
 ## 10. Autor
